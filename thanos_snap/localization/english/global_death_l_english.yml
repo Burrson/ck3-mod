@@ -1,5 +1,0 @@
-l_english:
- thanos_snap.title:0 "Global Death Event"
- thanos_snap.desc:0 "This event randomly kills some characters in the game."
- decision_global_death_decision:0 "Trigger Global Death Event"
- decision_global_death_decision_desc:0 "Trigger an event that randomly kills some characters."

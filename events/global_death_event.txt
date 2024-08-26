@@ -2,8 +2,8 @@ namespace = thanos_snap
 
 thanos_snap.0001 = {
     id = thanos_snap.1
-    title = "Global Death Event"
-    desc = "This event randomly kills some characters in the game."
+    title = Thanos_Snap_Event_Title
+    desc = Thanos_Snap_Event_desc
 
     is_triggered_only = yes
 
@@ -28,7 +28,7 @@ thanos_snap.0001 = {
     }
 
     option = {
-        name = "Close Event"  # Button text
+        name = Thanos_Snap_Event_close  # Button text
         hidden_effect = {
             clr_character_flag = thanos_snap.1  # Clear flag to prevent event from firing again
             end_effective_event = thanos_snap.1  # End the event
