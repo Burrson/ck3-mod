@@ -1,5 +1,7 @@
-l_english:
- thanos_snap.title:0 "Global Death Event"
- thanos_snap.desc:0 "This event randomly kills some characters in the game."
- decision_global_death_decision:0 "Trigger Global Death Event"
- decision_global_death_decision_desc:0 "Trigger an event that randomly kills some characters."
+﻿l_english:
+ Thanos_Snap_decision: "Thanos Snap"
+ first_paragraph: "With a snap of your fingers, you can eliminate half of the population. Why? Resources are limited and sacrifices must be made to save the holy CPU"
+ Thanos_Snap_decision_confirm: "Snap!"
+ Thanos_Snap_Event_Title: "The Snap has snapped"
+ Thanos_Snap_Event_desc: "What had to be done, has been done..."
+ Thanos_Snap_Event_close: "I had to"

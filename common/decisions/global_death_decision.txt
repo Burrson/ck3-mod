@@ -1,9 +1,9 @@
 
-global_death_decision = {
+Thanos_Snap_decision = {
     picture = "gfx/interface/illustrations/decisions/decision_personal_religious.dds"
     major = yes
     selection_tooltip = "omega lul"
-    desc = "lool"
+    desc = first_paragraph
     potential = {
         ai = no  # Makes the decision player-only
     }
